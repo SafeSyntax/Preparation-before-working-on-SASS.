@@ -17,3 +17,11 @@ Steps to Installing Sass on Windows
 ### iv. Install compiler -> http://koala-app.com/
 
 Ok, at now ready for work.
+
+
+
+
+
+> Just a qoute 
+
+This site was built using [Safe Syntax](https://safesyntax.com/).
