@@ -4,6 +4,9 @@ Steps to Installing Sass on Windows
 	
 	[Safe Syntax](https://safesyntax.com/).
 	
+	[Safe Syntax](https://safesyntax.com/)
+	
+	
 	and Install it
 ### ii. Open the Command Line (CMD) [ Press Windows Key + R and type: CMD, then press Enter.]
 	The almighty Command Line (CMD) will appear:
