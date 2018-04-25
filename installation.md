@@ -10,7 +10,7 @@ Steps to Installing Sass on Windows
 	
 	(wait for installation)
 
-#### iv. Install compiler -> to download [Koala] {http://koala-app.com/}
+#### iv. Install compiler -> to download [Koala] (http://koala-app.com/)
 
 Ok, at now ready for work.
 
