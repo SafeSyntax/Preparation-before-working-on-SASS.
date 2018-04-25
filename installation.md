@@ -18,6 +18,4 @@ Ok, at now ready for work.
 
 
 
-> Just a qoute 
-
-This site was built using [Safe Syntax](https://safesyntax.com/).
+To know about us [Safe Syntax](https://safesyntax.com/).
