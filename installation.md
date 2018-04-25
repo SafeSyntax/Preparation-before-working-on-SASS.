@@ -1,6 +1,6 @@
 Steps to Installing Sass on Windows
 ### i. Download the Ruby installer 
-	[Ruby Installer](https://rubyinstaller.org/downloads/)  (With Webkit)
+-> [Ruby Installer](https://rubyinstaller.org/downloads/)  (With Webkit)
 	
 [Safe Syntax](https://safesyntax.com/).
 	
