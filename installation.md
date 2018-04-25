@@ -7,6 +7,7 @@ Steps to Installing Sass on Windows
 	The almighty Command Line (CMD) will appear:
 #### iii. Type the following command in the CMD (it doesn’t matter which folder you’re in):
 	gem install sass
+	
 	(wait for installation)
 
 #### iv. Install compiler -> http://koala-app.com/
